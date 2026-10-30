@@ -6,7 +6,7 @@
 Did the PC successfully ping a DNS name (e.g., `library_pc1`)?  
 Explain the result.
 
-📸 **Screenshot of successful ping**
+<img width="4284" height="5712" alt="IMG_4671" src="https://github.com/user-attachments/assets/36e746db-2ab6-4e9b-bfa6-3b77e379e8ee" />
 
 ---
 
@@ -19,5 +19,5 @@ Describe whether DNS resolved the hostname correctly.
 Describe the IPs assigned to each PC.  
 Do they match the DHCP pool?
 
-📸 **Screenshot: `ipconfig /all`**
+<img width="4284" height="5712" alt="IMG_4672" src="https://github.com/user-attachments/assets/31490f22-d30e-4422-931c-e01ff05133ee" />
 
